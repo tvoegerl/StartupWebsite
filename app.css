@@ -1,0 +1,37 @@
+
+
+body{
+    background-image: url("https://images.unsplash.com/photo-1507360224496-f4e6108159f2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#description{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    top: 50%;
+    margin-right: -50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+}
+
+#description h1{
+    font-size: 80px;
+    color: #813405;
+}
+
+#description span{
+    font-size: 70px;
+    color: #FCB95A;
+}
+
+
+#description button{
+    color: white;
+    text-align: center;
+}
+
+a span{
+    color: white;
+    text-align: center;
+}
